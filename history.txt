@@ -1,0 +1,436 @@
+    1  git init
+    2  git add
+    3  cd
+    4  cdC:\Users\leha8\Downloads
+    5  cd/C:\Users\leha8\OneDrive\Рабочий стол/git init
+    6  cd
+    7  mkdir git_intro
+    8  cd/c/git_intro/git clone
+    9  cd git_intro
+   10  git init
+   11  git add/c/git_intro
+   12  git add/c/git_intro git clone
+   13  dir
+   14  cd GIT
+   15  cd ..
+   16  cd ..
+   17  pwd
+   18  cd GIT
+   19  ls -al
+   20  cd usr
+   21  ls-al
+   22  ls -al
+   23  cd..
+   24  git clone git@github.com:Alenochka2003/GitHub.git
+   25  cd GitHub
+   26  git branch feature
+   27  git checkout feature
+   28  git add README.md .gitignore
+   29  git commit -m " Добавлены изменения к README.md and .gitignore"
+   30  git push origin feature
+   31  git commit --amend --no-edit
+   32   git log
+   33  git push --force origin feature
+   34   git log
+   35  git checkout main
+   36  git merge feature
+   37  history
+   38   history | tail -55
+   39   history | tail -55 >> history.txt
+   40  git add history.txt
+   41  git commit -m "Add command history from bash"
+   42  git push origin main
+   43  Alenochka2003/GitHub.git
+   44  Alenochka2003/GitHub.git
+   45  bash: Alenochka2003/GitHub.git: No such file or directory
+   46  https://github.com/Kristin198689
+   47  git clone git@github.com:https://github.com/Kristin198689
+   48  cd GitHub
+   49  git branch feature
+   50  git checkout feature
+   51  git add README.md .gitignore
+   52  git commit -m " Добавлены изменения к README.md and .gitignore"
+   53  git push origin feature
+   54  git commit --amend --no-edit
+   55   git log
+   56  git push --force origin feature
+   57   git log
+   58  git checkout main
+   59  git merge feature
+   60  history
+   61   history | tail -55
+   62   history | tail -55 >> history.txt
+   63  git add history.txt
+   64  git commit -m "Add command history from bash"
+   65  git push origin main
+   66  git clonehttps://github.com/Kristin198689
+   67  git clonehttps://github.com/Kristin198689/my-repo
+   68  git clone https://github.com/Kristin198689/my-repo
+   69  git branch feature
+   70  git checkout feature
+   71  git add README.md .gitignore
+   72  git commit -m " Добавлены изменения к README.md and .gitignore"
+   73  git push origin feature
+   74  git commit --amend --no-edit
+   75   git log
+   76  git push --force origin feature
+   77   git log
+   78  git checkout main
+   79  git merge feature
+   80  history
+   81   history | tail -55
+   82   history | tail -55 >> history.txt
+   83  git add history.txt
+   84  git commit -m "Add command history from bash"
+   85  git push origin main
+   86  git clonegithub.com/Kristin198689/my-repo
+   87  git clone git@github.com/Kristin198689/my-repo
+   88  cd GitHub
+   89  ssh ec2-user@linux.itcareerhub.de
+   90  ssh ec2-user@linux.itcareerhub.de
+   91  scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh
+   92  pwd
+   93  scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh 
+   94  ; scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh C:\Users\
+   95  > scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh C:\Users\
+   96   scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh C:\Users
+   97   scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh 
+   98  ls -al
+   99  mkdir GIT
+  100  cd usr
+  101  ls -al
+  102  mkdir GIT
+  103  cd ..
+  104  cd ..
+  105  ls -al
+  106  git clone 
+  107   git@github.com:Kristin198689/home-work12.git
+  108  .code
+  109  code.
+  110  code .
+  111  ssh -i C:\Users\leha8\id_rsa ec2-user@linux.itcareerhub.de
+  112   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  113   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  114  ls -a
+  115   git@github.com:Kristin198689/home-work12.git
+  116   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  117   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  118   git@github.com:Kristin198689/home-work12.git
+  119   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  120  ls -a
+  121   ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  122   ssh -i ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCoujqHext8qGQ6nbSmgm3h+sDYEfPOOmrgSyVFRJNbU0ogr/uDUokaxOqvDe4ny2LwhbCaPU99HItMo0nrbZ5etpjSrM7wFWWgjt0OvNH6GCE9QMgcG1zcTnKdfCLaA9bHclNOCZ3oqAXflh4PW9VGga5jBK1wDRMyNMTOYHWkwDRGaJXR2amq2Hu10AZES5RQ3pvMkosmkwJTUy4XGf1Gnlgg0kh9pdXLhrZZFLwT3K+0q4S24s1U2AqbL30jXxQYQJVjLwC0JMEBJ7qOOsOY2mwgtCzb/N9Qy5TwsyBAKSKH+2BmQGyTeULQKdkSLn3Z/kvHIn+WXKBvFVGDDyIm9Dx0BpkKrcrgzp3WVmq0QFYHtYzCeWFNC1/F3JOiMAHEnVlc3D8t6AmIHp1/EUlcYz1pUjPzcomne/Q944/iRbJZjEsDp0cYEB0y4Y84c+9TvaHn0z4dEgi9JWIOMrrwYgLloS6ASeYkZFO3o0haPxIsQvKujBgtUOoFoLSr9pE= kristin198689@gmail.com
+  123   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  124   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  125  pwd
+  126  C:\Users\leha8\.ssh
+  127  ssh -i ~/.C:\Users\leha8\.ssh
+  128   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  129  ssh -i ~/.C:\Users\leha8\.ssh
+  130  ssh -i ~/.C:\Users\leha8\.ssh
+  131  ssh -i ~/.C:\Users\leha8\.ssh
+  132   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  133   git@github.com:Kristin198689/home-work12.git
+  134   ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  135   git@github.com:Kristin198689/home-work12.git
+  136  C:\Users\leha8\.ssh
+  137   scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/ChristinaVolodina/permission_checker.sh C:\Users
+  138  C:\Users\leha8\.ssh
+  139  C:\Users\leha8\.ssh
+  140  ssh -i C:\Users\leha8\.ssh
+  141  C:\Users\leha8\.ssh ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  142  C:\Users\leha8\.ssh ssh ec2-user@linux.itcareerhub.de
+  143  C:\Users\leha8\.ssh ssh ec2-user@linux.itcareerhub.de
+  144  C:\Users\leha8\.ssh ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  145  ssh -i C:\Users\leha8\.ssh
+  146  ssh -i C:\Users\leha8\.ssh
+  147  cd C:\Users\leha8\.ssh
+  148  cd C:\Users\leha8\.ssh 
+  149  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  150  ssh -i id_rsa ec2-user@linux.itcareerhub.de
+  151  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  152  vi
+  153  vi
+  154  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  155  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  156  ls -a .git
+  157  file: .git/config
+  158  pwd
+  159  git clone git@github.com:Kristin198689/1111.git
+  160  git config --Kristin198689
+  161  git init
+  162  pwd
+  163  mkdir first_repo
+  164  mkdir first_repomkdir first_repo/
+  165  cd first_repo/
+  166  git init
+  167  mkdir first_repo
+  168  cd first_repo/
+  169  pwd
+  170  cd C.
+  171  ls
+  172  cd C:/Users
+  173  pwd
+  174  cd
+  175  pwd
+  176  mkdir first_repo
+  177  cd first_repo
+  178  git init
+  179  echo "# test" >> README.md
+  180  git status
+  181  git add README.md
+  182  git commit -m "first commit"
+  183  git branch -M main
+  184  eval 'ssh-agent -s'
+  185  ssh-add C:\Users\leha8
+  186  ssh-add C:/Users/vboxuser/itch
+  187  ssh-add C:/Users/leha8
+  188  ssh-add C:/Users/leha8C.ssh
+  189  ssh-add C:\Users\leha8\.ssh
+  190  ssh-add ssh -i C:\Users\leha8
+  191  ssh-add C:\Users\leha8
+  192  ssh-add C:/Users/leha8C.ssh/id_rsa
+  193  ssh-add C:/Users/leha8C.ssh/id_rsa.pub
+  194  ssh-add ~/.ssh/id_rsa_pr
+  195  ls ~/.ssh
+  196  ssh-add  ~/.ssh/id_rsa
+  197  eval `ssh-agent -s
+  198  eval `ssh-agent -s`
+  199  eval `ssh-agent -s`
+  200  ssh-add  ~/.ssh/id_rsa
+  201  git remote add origin git@github.com:Kristin198689
+  202  git remote add origin git@github.com:Kristin198689/first_repo.git
+  203  git remote add origin git@github.com:Kristin198689/first_repo1.git
+  204  git remote add origin git@github.com:Kristin198689/first_repoooo1.git
+  205  echo "# git_ino" >> RADME.md
+  206  git init
+  207  git add README.md
+  208  git commit -m "first commit"
+  209  git branch -M main
+  210  git remote add origin git@github.com:Kristin198689/git_intro.git
+  211  git push -u origin main
+  212  git remote add origin git@github.com:Kristin198689/git_intro.git
+  213  git branch -M main
+  214  git push -u origin main
+  215  echo "# git_ino" >> RDME.md
+  216  git init
+  217  git add README.md
+  218  git commit -m "first commit"
+  219  git branch -M main
+  220  git remote add origin git@github.com:Kristin198689/git_intro.git
+  221  git push -u origin main
+  222  git remote add origin git@github.com:Kristin198689/git_intro.git
+  223  git branch -M main
+  224  git push -u origin main
+  225  git remote add origin git@github.com:Kristin198689/git_ino.git
+  226  git branch -M main
+  227  git push -u origin main
+  228  vi skript
+  229  #!/bin/bash
+  230  # Задать переменную USER
+  231  USER="Ваше_Имя"
+  232  # Написать дату
+  233  echo "Дата: $(date)"
+  234  # Поприветствовать пользователя
+  235  echo "Hello $USER!"
+  236  # Написать, из какой директории он работает
+  237  echo "Текущая директория: $(pwd)"
+  238  # Добавить количество процессов с именем bioset одним числом (не учитывая процесс grep)
+  239  bioset_count=$(ps aux | grep '[b]ioset' | wc -l)
+  240  echo "Количество процессов bioset: $bioset_count"
+  241  # Вывести права на файл /etc/passwd в формате (-rw-r--r--)
+  242  file_permissions=$(ls -l /etc/passwd | awk '{print $1}')
+  243  echo "Права на файл /etc/passwd: $file_permissions"я
+  244  echo "Текущая директория: $(pwd)"я
+  245  # Задать переменную USER
+  246  USER="Ваше_Имя"
+  247  # Написать дату
+  248  echo "Дата: $(date)"
+  249  # Поприветствовать пользователя
+  250  echo "Hello $USER!"
+  251  # Написать, из какой директории он работает
+  252  echo "Текущая директория: $(pwd)"
+  253  # Добавить количество процессов с именем bioset одним числом (не учитывая процесс grep)
+  254  bioset_count=$(ps aux | grep '[b]ioset' | wc -l)
+  255  echo "Количество процессов bioset: $bioset_count"
+  256  # Вывести права на файл /etc/passwd в формате (-rw-r--r--)
+  257  file_permissions=$(ls -l /etc/passwd | awk '{print $1}')
+  258  echo "Права на файл /etc/passwd: $file_permissions"
+  259  #!/bin/bash
+  260  USER="Ваше_Имя"
+  261  USER="CHRISTINA"
+  262  echo "Дата: $(date)"
+  263  echo "Hello $USER!"
+  264  echo "Текущая директория: $(pwd)"
+  265  bioset_count=$(ps aux | grep '[b]ioset' | wc -l)
+  266  echo "Количество процессов bioset: $bioset_count"
+  267  file_permissions=$(ls -l /etc/passwd | awk '{print $1}')
+  268  echo "Права на файл /etc/passwd: $file_permissions"
+  269  nano myfirstbashscript.sh
+  270  df -h | head -n3 >> df -h | head -n3 >> /tmp/file.txt
+  271  export USER="christina"
+  272  echo "скрипт запущен из дерриктории: $(pwd)"
+  273  pwd
+  274  nano /tmp/file.txt
+  275  chmod +rwx /tmp/file.txt
+  276  chmod +g=wx /tmp/file.txt
+  277  chmod g+wx /tmp/file.txt
+  278  chmod o-rx /tmp/file.txt
+  279  touch /tmp/myfirstbashscript.sh
+  280  chmod +x /root/myfirstbashscript.sh
+  281  chmod +x /tmp/myfirstbashscript.sh
+  282  nano /tmp/myfirstbashscript.sh
+  283  nano /tmp/file.txt
+  284  #!/bin/bash
+  285  USER="christina"
+  286  echo "Script executed from directory: $(pwd)"
+  287  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+  288  #!/bin/bash
+  289  USER="christina"
+  290  echo "Script executed from directory: $(pwd)"
+  291  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+  292  df -h | head -n 3 > /tmp/file.txt
+  293  chmod 770 /tmp/file.txt
+  294  chmod o-rwx /tmp/file.txt
+  295  touch ~/myfirstbashscript.sh
+  296  chmod +x ~/myfirstbashscript.sh
+  297  nano ~/myfirstbashscript.sh
+  298  chmod +x ~/myfirstbashscript.sh
+  299  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+  300  history | tail -n 10 >> /tmp/file.txt
+  301  export_file /tmp/file.txt
+  302  nano ~/myfirstbashscript.sh
+  303  chmod +x ~/myfirstbashscript.sh
+  304  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+  305  history | tail -n 10 >> /tmp/file.txt
+  306  export_file /tmp/file.txt
+  307  df -h | head -n 3 > /tmp/file.txt
+  308  chmod 770 /tmp/file.txt
+  309  chmod o-rwx /tmp/file.txt
+  310  touch ~/myfirstbashscript.sh
+  311  chmod +x ~/myfirstbashscript.sh
+  312  nano ~/myfirstbashscript.sh
+  313  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+  314  history | tail -n 10 >> /tmp/file.txt
+  315  history | tail -n 10 >> /tmp/file.txt
+  316  export_file /tmp/file.txt
+  317  cd /tmp
+  318  ls -l file.txt
+  319  history | tail -n 10 >> /tmp/file.txt
+  320  history
+  321  history | tail -n 10 
+  322  history | tail -n 10 >> /tmp/file.txt
+  323  history | tail -n 10 
+  324  nano myfirstbashscript.sh
+  325  nano myfirstbashscript.sh
+  326  nano /tmp/myfirstbashscript.sh
+  327  chmod +x /tmp/myfirstbashscript.sh
+  328  /tmp/myfirstbashscript.sh
+  329  export_file /tmp/myfirstbashscript.sh
+  330  chmod u+w .
+  331  nano myfirstbashscript.sh
+  332  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  333  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  334  pwd
+  335  locate filename
+  336  find / -name "filename"
+  337  nano myfirstbashscript.sh
+  338  ssh -i C:\Users\leha8 ec2-user@linux.itcareerhub.de
+  339  ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  340  #!/bin/bash
+  341  DIRECTORY="/opt/290124-wdm"
+  342  FILES=$(ls -l "$DIRECTORY" | grep "^-" | awk '{print $9}')
+  343  for FILE in $FILES;   do      if [[ $FILE == *.sh ]]; then      chmod +x "$DIRECTORY/$FILE";                 echo "Added execute permissions to $FILE";        fi  ;       done
+  344  #!/bin/bash
+  345  DIRECTORY="/opt/290124-wdm"
+  346  FILES=$(ls -l "$DIRECTORY" | grep "^-" | awk '{print $9}')
+  347  for FILE in $FILES;   do      if [[ $FILE == *.sh ]]; then      chmod +x "$DIRECTORY/$FILE";                 echo "Added execute permissions to $FILE";        fi  ;       done
+  348  #!/bin/bash
+  349  DIRECTORY="/opt/290124-wdm"
+  350  FILES=$(ls -l "$DIRECTORY" | grep "^-" | awk '{print $9}')
+  351  for FILE in $FILES;   do      if [[ $FILE == *.sh ]]; then      chmod +x "$DIRECTORY/$FILE";                 echo "Added execute permissions to $FILE";        fi  ;       done
+  352  ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  353  ssh -iC:\Users\leha8 ec2-user@linux.itcareerhub.de
+  354  cd -
+  355  cd
+  356  pwd
+  357  git clone https://github.com/Igor2-ICH/test_repo1.git
+  358  cd test_repo1
+  359  cd
+  360  cd test_repo1
+  361  cd
+  362  rm -rf test_repo1
+  363  pwd
+  364  rm -rf .git
+  365  git clone git@github.com:Kristin198689/my-repo.git
+  366  cd
+  367  pwd
+  368  git clone git@github.com:Kristin198689/my-repo.git
+  369  git clone git@github.com:Kristin198689/test_repo1.git
+  370  cd test_repo1/
+  371  cd test_repo1
+  372  cd test_repo1
+  373  cd
+  374  pwd
+  375  git clone git@github.com:Kristin198689/test_repo1.git
+  376  git clone git@github.com:Kristin198689/test_repo1.git
+  377  cd
+  378  cd test_repo1
+  379  git checkout -b my-feature
+  380  ls -la
+  381  date >> README.md 
+  382  date >> README.md 
+  383  cat README.md 
+  384  git branch 
+  385  git status 
+  386  git add README.md 
+  387  git status 
+  388  git commit -m "Add current date to README.md"
+  389  git status 
+  390  git push origin my-feature 
+  391  cd
+  392  cd repo12
+  393  cd home-work12
+  394  cat repo12
+  395  cd repo12
+  396  cd my-repo
+  397  cd home-work12
+  398  cd home-work12
+  399  ls -la
+  400  opt
+  401  cd
+  402  cd
+  403  pwd
+  404  git clone git@github.com:Kristin198689/repo12.git
+  405  cd repo12
+  406  cd repo
+  407  cd repo12
+  408  cd repo12
+  409  git checkout  -b feature
+  410  git checkout -b feature
+  411  echo "# Project 12" > README.md
+  412  echo "*.exe" >> .gitignore
+  413  git add README.md .gitignore
+  414  git commit -m "Add README.md and update .gitignore"
+  415  echo "# Project 12" > README.md
+  416  echo "*.exe" >> .gitignore
+  417  git add README.md
+  418  .gitignore
+  419  git commit -m "Add README.md and update .gitignore"
+  420  history
+  421  history > history.txt
+  422  git commit -m "Add README.md and update .gitignore"
+  423  git commit -m "Add README.md and update .gitignore"
+  424  git log
+  425  git push
+  426   git push --set-upstream origin feature
+  427  git commit --amend
+  428  git log
+  429  git checkout main 
+  430  git status
+  431  git clean -f
+  432  git checkout -- .
+  433  git status
+  434  git checkout main 
+  435  git merge feature
+  436  history > history.txt
